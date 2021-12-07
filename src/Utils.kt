@@ -1,3 +1,3 @@
 import java.io.File
 
-fun readInput(path: String) = File("src/input", "$path.txt").readLines()
+fun readInput(path: String) = File("input", "$path.txt").readLines()
